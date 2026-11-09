@@ -1,0 +1,18 @@
+Rédito · avisos de licencia
+===========================
+
+El código de este repositorio (HTML, SCSS, CSS, JavaScript y los scripts de datos/) se distribuye
+bajo la licencia MIT (ver LICENSE).
+
+La licencia MIT NO se aplica a las fuentes tipográficas incluidas en fonts/:
+
+- Newsreader (fonts/newsreader*.woff2), de Production Type, se distribuye bajo la SIL Open Font
+  License 1.1. Texto completo en fonts/newsreader-OFL.txt.
+- Hito (fonts/hito*.woff2) es una letra propia de José Luis Pizarro, generada con el proyecto
+  syx--typography. Todos los derechos reservados hasta que se publique su licencia definitiva.
+  No se permite su reutilización fuera de este proyecto sin permiso.
+
+Las ilustraciones de img/ se generan por código (datos/imagenes.py) y siguen la licencia del código.
+Los datos, noticias, firmas y anunciantes que aparecen en la portada son ficticios.
+
+SYX (syx-design-system) se instala como dependencia y se rige por su propia licencia.

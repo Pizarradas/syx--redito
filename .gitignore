@@ -1,0 +1,9 @@
+# dependencias
+node_modules/
+# capturas y cachés que generan las pruebas
+datos/*.png
+__pycache__/
+*.pyc
+# sistema
+.DS_Store
+Thumbs.db
